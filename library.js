@@ -1,1 +1,2 @@
-alert("ようこそ!");
+var date = new Date();
+alert(date);
